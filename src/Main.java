@@ -23,5 +23,6 @@ public class Main {
         System.out.println(savingsAccount.getBalance());
         System.out.println(certificateOfDeposit.getAccount());
         System.out.println(certificateOfDeposit.getBalance());
+            System.out.println("Joseph Ngugi Muiruri");
     }
 }
