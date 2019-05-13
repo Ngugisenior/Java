@@ -1,0 +1,2 @@
+/*C3*/SET SCHEMA PUBLIC
+CREATE TABLE if not exists realestate ( id integer identity primary key, address varchar(140), type int,price int,age int,size int)
