@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class Utkarsh {
+class Solution {
 
     InputStream is;
     PrintWriter out;
