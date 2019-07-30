@@ -1,0 +1,10 @@
+Write a program that counts the number of occurrences of a given character in a string.
+
+Input data format
+The single input line contains a string and a character separated by a space.
+<b>Sample Input 1:</b>
+
+abcda a
+<b>Sample Output 1:</b>
+
+2
